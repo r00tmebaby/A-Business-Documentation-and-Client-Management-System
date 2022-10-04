@@ -9,9 +9,12 @@
 
 <sup>Author: Zdravko Georgiev </sup>
 
-Report : https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf
 
-Some UML Diagrams
+<hr>
+
+###Report : https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf
+
+##Some UML Diagrams
 
 ### Overview of the program
 ![img.png](media/overal.png)
