@@ -42,6 +42,6 @@ Navigate to the files path and run with CMD command -> uvicorn Main:router
 ![](media/main.png)
 ![](media/account.png)
 ![](media/emaillicense.png)
-![](media/get serial.png)
+![](media/getserial.png)
 ![](media/mylicense.png)
 ![](media/web-lienses-mine.png)
