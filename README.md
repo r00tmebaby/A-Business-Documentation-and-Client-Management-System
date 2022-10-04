@@ -13,7 +13,7 @@
 
 #### Report Sample <a href="https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf">here</a>
 <br>
-#### UML Diagrams
+
 ### Overview of the program
 ![img.png](media/overal.png)
 
