@@ -1,6 +1,6 @@
 
 # BACHELOR OF SCIENCE FINAL YEAR PROJECT  - COMPUTER SCIENCE 
-<h1 style="color:red">The full sourcecode, software engineering reports and UML diagrams are available on request ! </h1>
+<h1 font-color="red">The full sourcecode, software engineering reports and UML diagrams are available on request ! </h1>
 
 <sup>Some Tests and Presentation -> https://www.youtube.com/channel/UCB21WRSqZG7Dk2oPSkQKM-A</sup>
 
