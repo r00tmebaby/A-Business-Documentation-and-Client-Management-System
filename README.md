@@ -10,7 +10,7 @@
 <hr>
 
 <img src="media/logo.png" width="100%"/>
-<a href="https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf">Report Overview</a>
+## Report Sample <a href="https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf">here</a>
 
 ## Some UML Diagrams
 
