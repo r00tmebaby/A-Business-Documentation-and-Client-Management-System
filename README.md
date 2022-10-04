@@ -1,7 +1,7 @@
 
-# BACHELOR OF SCIENCE FINAL YEAR PROJECT  - COMPUTER SCIENCE </h1>
+# BACHELOR OF SCIENCE FINAL YEAR PROJECT  - COMPUTER SCIENCE 
 
-![img.png](media/logo.png)
+            ![img.png](media/logo.png)
 
 #### The full sourcecode, software engineering reports and UML diagrams are available on request ! 
 
