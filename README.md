@@ -1,6 +1,6 @@
 
 # BACHELOR OF SCIENCE FINAL YEAR PROJECT  - COMPUTER SCIENCE 
-#### The full sourcecode, software engineering reports and UML diagrams are available on request ! 
+<h1 style="color:red">The full sourcecode, software engineering reports and UML diagrams are available on request ! </h1>
 
 <sup>Some Tests and Presentation -> https://www.youtube.com/channel/UCB21WRSqZG7Dk2oPSkQKM-A</sup>
 
@@ -10,7 +10,7 @@
 <hr>
 
 <img src="media/logo.png" width="100%"/>
-### Report : <a href="https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf">Report Overview</a>
+<a href="https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf">Report Overview</a>
 
 ## Some UML Diagrams
 
