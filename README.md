@@ -1,5 +1,5 @@
 
-# BACHELOR OF SCIENCE FINAL YEAR PROJECT  - COMPUTER SCIENCE 
+## BACHELOR OF SCIENCE FINAL YEAR PROJECT  - COMPUTER SCIENCE 
 <h4>The full sourcecode, software engineering reports and UML diagrams are available on request ! </h4>
 
 <sup>Some Tests and Presentation -> https://www.youtube.com/channel/UCB21WRSqZG7Dk2oPSkQKM-A</sup>
