@@ -1,1 +1,2 @@
-dsdfsdf
+# A-Business-Documentation-and-Client-Management-System
+You are running a limited company or working as a sole trader in the construction industry. HMRC advises that you must keep all records of all your business paperwork for up to six years. When they state business paperwork, the meaning is all relevant information issued and received from you over the years related to the income and expenses you had.
