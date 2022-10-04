@@ -12,13 +12,8 @@
 <img src="media/logo.png" width="100%"/>
 
 #### Report Sample <a href="https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System/blob/main/Report.pdf">here</a>
-<br>
 
-### Overview of the program
+#### UML Sample
 ![img.png](media/overal.png)
-
-### Licensing activity diagram
 ![img.png](media/licensing.png)
-
-### Program start activity diagram
 ![img.png](media/first.png)
